@@ -4,3 +4,15 @@ git URL:
 https://github.com/laytonf/serverless-stack-2-api.git
 
 ---------------------------------------------------------
+Stack Outputs
+AttachmentsBucketName: notes-app2-api-dev-attachmentsbucket-8q6biy85ajei
+UserPoolClientId: 2ajndpalir1mhvctk43spger2p
+UserPoolId: us-east-1_Mj2Iv2L2a
+DeleteLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:541664365145:function:notes-app2-api-dev-delete:1
+CreateLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:541664365145:function:notes-app2-api-dev-create:1
+GetLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:541664365145:function:notes-app2-api-dev-get:1
+UpdateLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:541664365145:function:notes-app2-api-dev-update:1
+IdentityPoolId: us-east-1:e44ad3a4-fbe6-42f1-898b-27fa7ead019d
+ListLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:541664365145:function:notes-app2-api-dev-list:1
+ServiceEndpoint: https://51e9f1mt38.execute-api.us-east-1.amazonaws.com/dev
+ServerlessDeploymentBucketName: notes-app2-api-dev-serverlessdeploymentbucket-1mulih6s9zq9q
